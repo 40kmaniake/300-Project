@@ -3,11 +3,5 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
-	"Plugins": [
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		}
-	]
+	"Enterprise": true
 }
